@@ -1,2 +1,2 @@
-# GitRebase2
+# GitRebase2 - hotfix 1
 # GitRebase2 2
